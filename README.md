@@ -1,7 +1,6 @@
 # 🚴 AdventureWorks Power BI Dashboard
 
 [![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow?logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![AdventureWorks](https://img.shields.io/badge/Data-AdventureWorks-blue?logo=microsoftsqlserver)](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
 
 > **A comprehensive interactive sales dashboard based on the Microsoft AdventureWorks sample database.**
@@ -39,6 +38,8 @@ This Power BI report consists of **three pages**, each offering a different angl
 - Subcategory performance: Road Bikes, Jerseys, Wheels, etc.
 - Filters by region, store, and store type
 - Profitability by product model
+
+![screen1](screenshots/1.png)
 
 ---
 
@@ -95,17 +96,6 @@ This Power BI report consists of **three pages**, each offering a different angl
 
 ---
 
-## 📬 Feedback & Contributions
-
-Feel free to open an [issue](https://github.com/your-repo/issues) or submit a [pull request](https://github.com/your-repo/pulls) if you have ideas, suggestions, or improvements.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 
 
