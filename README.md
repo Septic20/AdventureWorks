@@ -77,7 +77,7 @@ This Power BI report consists of **three pages**, each offering a different angl
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server/)
-- [AdventureWorks DW 2014](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
+- [AdventureWorks DW 2022](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure)
 - DAX / M / SQL (data modeling and transformation)
 
 ---
