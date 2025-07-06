@@ -54,6 +54,8 @@ This Power BI report consists of **three pages**, each offering a different angl
 - Profitability, costs, AOV, and quantity sold per subcategory
 - Filterable by region, store, model, and more
 
+![screen2](screenshots/2.png)
+
 ---
 
 ### 3. 💸 Discounts Overview
@@ -66,6 +68,8 @@ This Power BI report consists of **three pages**, each offering a different angl
 - Discounted quantity by product and region
 - Profit margin comparison for discounted vs. full-price products
 - Top discounted models and subcategories
+
+![screen3](screenshots/3.png)
 
 ---
 
