@@ -13,7 +13,7 @@ Pre_dataset as(
   	P.Class as product_class,
   	P.Style as product_style,
   	pch.StandardCost as standard_cost,
-      ROW_NUMBER() OVER ( PARTITION BY S.SalesOrderDetailID ORDER BY pch.StartDate DESC) AS rn,
+        ROW_NUMBER() OVER ( PARTITION BY S.SalesOrderDetailID ORDER BY pch.StartDate DESC) AS rn,
   	Psubcat.Name as subcat_name, 
   	Pcat.Name as cat_name,
   	Soff.Type as offer_type,
