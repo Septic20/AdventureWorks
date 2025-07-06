@@ -23,10 +23,10 @@ Pre_dataset as(
   	Store.Name as store_name,
   	Sterritory.Name as territory,
   
-  	CASE 
+  CASE 
        WHEN Sterritory.CountryRegionCode='US' THEN Sterritory.CountryRegionCode
        ELSE Sterritory.Name 
-    END as country,
+        END as country,
   
   	Sterritory.CountryRegionCode as country_code,
   	Sterritory.[Group] as country_group,
